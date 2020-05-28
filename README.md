@@ -20,6 +20,6 @@ The user should be able to:
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
-![Screenshot](./assets/images/ScreenShot.png)
+![Screenshot](./assets/img/ScreenShot.png)
 
 ![Link to app] (https://young-beach-93609.herokuapp.com/?id=5ec221079219710017f39aa5)
